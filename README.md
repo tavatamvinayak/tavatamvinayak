@@ -35,7 +35,7 @@ I am an MERN Stack Developer , AI Software Developer .
 <a href="" target="_blank" rel="noreferrer"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="36" height="36" alt="" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="86" height="36" alt="" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://numpy.org/images/logo.svg" width="36" height="36" alt="" /></a>
-<a href="" target="_blank" rel="noreferrer"  ><img style="background:black;" src="https://pandas.pydata.org/static/img/pandas_white.svg" width="56" height="36" alt="" /></a>
+<a href="" target="_blank" rel="noreferrer"  ><img  src="[https://pandas.pydata.org/static/img/pandas_white.svg](https://pypi-camo.freetls.fastly.net/705545a847e60d6d4478c76a8146b9000e339c1c/68747470733a2f2f70616e6461732e7079646174612e6f72672f7374617469632f696d672f70616e6461732e737667)" width="56" height="36" alt="" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/_static/logo_light.svg" width="76" height="36" alt="" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="66" height="36" alt="" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="86" height="36" alt="" /></a>
